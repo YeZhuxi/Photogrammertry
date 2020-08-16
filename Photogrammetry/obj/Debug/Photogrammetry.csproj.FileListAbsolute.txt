@@ -1,0 +1,30 @@
+\\yezhuxi\Projects\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.exe.config
+\\yezhuxi\Projects\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.exe
+\\yezhuxi\Projects\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.pdb
+\\yezhuxi\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.csprojAssemblyReference.cache
+\\yezhuxi\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.csproj.CoreCompileInputs.cache
+\\yezhuxi\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.exe
+\\yezhuxi\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.pdb
+D:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.exe.config
+D:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.exe
+D:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.pdb
+D:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.MainGUI.resources
+D:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.csproj.GenerateResource.cache
+D:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.exe
+D:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.pdb
+D:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.Rendezvous.resources
+D:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.Orient.resources
+D:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.Beam.resources
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.exe.config
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.exe
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.pdb
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.Beam.resources
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.MainGUI.resources
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.Orient.resources
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.Rendezvous.resources
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.csproj.GenerateResource.cache
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.exe
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.pdb
+E:\Visual Studio 2017\Projects\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.csprojAssemblyReference.cache
